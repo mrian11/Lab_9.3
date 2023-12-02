@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest_Lab_9.3.cpp
+C:\Users\Користувач\source\repos\Lab_9.3\Lab_9.3\LAb.cpp(38,10): warning C4101: 'proc': unreferenced local variable
+C:\Users\Користувач\source\repos\Lab_9.3\UnitTest_Lab_9.3\UnitTest_Lab_9.3.cpp(20,1): error C2660: 'LineSearch': function does not take 5 arguments
+C:\Users\Користувач\source\repos\Lab_9.3\Lab_9.3\LAb.cpp(148,8): message : see declaration of 'LineSearch'
+C:\Users\Користувач\source\repos\Lab_9.3\UnitTest_Lab_9.3\UnitTest_Lab_9.3.cpp(20,1): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments

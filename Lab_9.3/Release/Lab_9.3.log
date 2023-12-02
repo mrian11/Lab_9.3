@@ -1,0 +1,3 @@
+﻿  LAB.cpp
+C:\Users\Користувач\source\repos\Lab_9.3\Lab_9.3\LAB.cpp(62,15): error C2664: 'void Remove(int *&,int &)': cannot convert argument 1 from 'Tramvai *' to 'int *&'
+C:\Users\Користувач\source\repos\Lab_9.3\Lab_9.3\LAB.cpp(24,6): message : see declaration of 'Remove'
